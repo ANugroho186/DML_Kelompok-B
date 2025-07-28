@@ -1,0 +1,17 @@
+# Abaikan virtual environment Python
+.venv/
+venv/
+__pycache__/
+
+# Abaikan file-file sistem operasi
+.DS_Store
+Thumbs.db
+
+# Abaikan file sensitif (jika ada)
+.env
+
+# Contoh jika nama file datasetnya 'dataset_besar.csv'
+dataset_besar.csv
+
+# Contoh jika semua dataset ada di dalam folder 'data'
+Dataset/
